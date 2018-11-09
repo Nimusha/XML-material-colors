@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base apps colors. -->    
+    <color name="primary">#000000</color>
+    <color name="primary_dark">#000000</color>
+    <color name="primary_darker">#000000</color>
+    <color name="secondary">#000000< /color>
+    <color name="accent">#FFFFFF</color>
+    <color name="blueControl">#03A9F4</color>
+    <color name="blueControlHighlight">#B3E5FC</color>
+    <color name="blueControlActivated">#039BE5</color>
+    <color name="greenControl">#4caf50</color>
+    <color name="greenControlHighlight">#00E676</color>
+    <color name="greenControlActivated">#2E7D32</color>
+    <color name="whiteControl">#FFFFFF</color>
+    <color name="whiteControlHighlight">#FAFAFA</color>
+    <color name="whiteControlActivated">#F5F5F5</color>
+
+    <color name="blue_swipe">#ff00ddff</color>
+    <color name="green_swipe">#ff99cc00</color>
+    <color name="red_swipe">#ffff4444</color>
+    <color name="orange_swipe">#ffffbb33</color>
+
+    <!-- Base colors. -->    
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#999999</color>
+    <color name="grayLightBackground">#F2F2F2</color>
+
+    <!-- Templates -->
+    <color name="">#</color>
+    <color name="">#</color>
+    <color name="">#</color>
+    <color name="">#</color>
+    <color name="">#</color>
+    <color name="">#</color>
+    <color name="">#</color>
+    <color name="">#</color>
+    <color name="">#</color>
+    <color name="">#</color>
+    <color name="">#</color>
+    <color name="">#</color>
+    <color name="">#</color>
+    <color name="">#</color>
+
+    <!-- Red shades -->
+    <color name="red50b">#FFEBEE</color>
+    <color name="red100b">#FFCDD2</color>
+    <color name="red200b">#EF9A9A</color>
+    <color name="red300b">#E57373</color>
+    <color name="red400w">#EF5350</color>
+    <color name="red500w">#F44336</color>
+    <color name="red600w">#E53935</color>
+    <color name="red700w">#D32F2F</color>
+    <color name="red800w">#C62828</color>
+    <color name="red900w">#B71C1C</color>
+    <color name="reda100b">#FF8A80</color>
+    <color name="reda200w">#FF5252</color>
+    <color name="reda400w">#FF1744</color>
+    <color name="reda700w">#D50000</color>
+
+     <!-- Pink -->
+    <color name="pink50b">#FCE4EC</color>
+    <color name="pink100b">#F8BBD0</color>
+    <color name="pink200b">#F48FB1</color>
+    <color name="pink300b">#F06292</color>
+    <color name="pink400w">#EC407A</color>
+    <color name="pink500w">#E91E63</color>
+    <color name="pink600w">#D81B60</color>
+    <color name="pink700w">#C2185B</color>
+    <color name="pink800w">#AD1457</color>
+    <color name="pink900w">#880E4F</color>
+    <color name="pinka100b">#FF80AB</color>
+    <color name="pinka200w">#FF4081</color>
+    <color name="pinka400w">#F50057</color>
+    <color name="pinka700w">#C51162</color>
+
+    <!-- Purple -->
+    <color name="purple50b">#F3E5F5</color>
+    <color name="purple100b">#E1BEE7</color>
+    <color name="purple200b">#CE93D8</color>
+    <color name="purple300w">#BA68C8</color>
+    <color name="purple400w">#AB47BC</color>
+    <color name="purple500w">#9C27B0</color>
+    <color name="purple600w">#8E24AA</color>
+    <color name="purple700w">#7B1FA2</color>
+    <color name="purple800w">#6A1B9A</color>
+    <color name="purple900w">#4A148C</color>
+    <color name="purplea100b">#EA80FC</color>
+    <color name="purplea200w">#E040FB</color>
+    <color name="purplea400w">#D500F9</color>
+    <color name="purplea700w">#AA00FF</color>
+
+    <!-- Deep purple -->
+    <color name="deeppurple50b">#EDE7F6</color>
+    <color name="deeppurple100b">#D1C4E9</color>
+    <color name="deeppurple200b">#B39DDB</color>
+    <color name="deeppurple300w">#9575CD</color>
+    <color name="deeppurple400w">#7E57C2</color>
+    <color name="deeppurple500w">#673AB7</color>
+    <color name="deeppurple600w">#5E35B1</color>
+    <color name="deeppurple700w">#512DA8</color>
+    <color name="deeppurple800w">#4527A0</color>
+    <color name="deeppurple900w">#311B92</color>
+    <color name="deeppurplea100b">#B388FF</color>
+    <color name="deeppurplea200w">#7C4DFF</color>
+    <color name="deeppurplea400w">#651FFF</color>
+    <color name="deeppurplea700w">#6200EA</color>
+</resources>
