@@ -2,6 +2,8 @@
 Android XML file, which contains colors from material palette:
 https://material.io/design/color/the-color-system.html#tools-for-picking-colors
 
+[USING]
+you can use it just copy and paste or insert colors.xml in your project
 Structure of color name:
 color[shade][b/w]
 b - black font
